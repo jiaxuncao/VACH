@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Final Project',
+    title: 'VACH',
   },
+  pathPrefix: "/VACH",
   plugins: ['gatsby-plugin-react-helmet'],
 }
