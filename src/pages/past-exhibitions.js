@@ -5,11 +5,11 @@ const PastExhibitionsPage = () => (
   <div>
     <div className='Header'>
       <div className='HeaderGroup'>
-        <a href="/about-us/">ABOUT US</a>
-        <a href="/past-exhibitions/">PAST EXHIBITIONS</a>
-        <a href="/"><img src={require('../img/Logo.svg')} alt="Logo" width="120" /></a>
-        <a href="/upcoming-exhibitions/">UPCOMING EXHIBITIONS</a>
-        <a href="/contact/">CONTACT US</a>
+        <a href="http://jiaxuncao.com/VACH/about-us/">ABOUT US</a>
+        <a href="http://jiaxuncao.com/VACH/past-exhibitions/">PAST EXHIBITIONS</a>
+        <a href="http://jiaxuncao.com/VACH/"><img src={require('../img/Logo.svg')} alt="Logo" width="120" /></a>
+        <a href="http://jiaxuncao.com/VACH/upcoming-exhibitions/">UPCOMING EXHIBITIONS</a>
+        <a href="http://jiaxuncao.com/VACH/contact/">CONTACT US</a>
       </div>
     </div>
     <div className='About'>

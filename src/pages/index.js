@@ -11,12 +11,12 @@ const IndexPage = () => (
         <div className='scroll'>Scroll Down</div>
         <div className='nav'>
           <div className='navbar1'>
-            <a href="/about-us/">ABOUT US</a>
-            <a href="/past-exhibitions/">PAST<br></br>EXHIBITIONS</a>
+            <a href="http://jiaxuncao.com/VACH/about-us/">ABOUT US</a>
+            <a href="http://jiaxuncao.com/VACH/past-exhibitions/">PAST<br></br>EXHIBITIONS</a>
           </div>
           <div className='navbar2'>
-            <a href="/upcoming-exhibitions/">UPCOMING<br></br>EXHIBITIONS</a>
-            <a href="/contact/">CONTACT US</a>
+            <a href="http://jiaxuncao.com/VACH/upcoming-exhibitions/">UPCOMING<br></br>EXHIBITIONS</a>
+            <a href="http://jiaxuncao.com/VACH/contact/">CONTACT US</a>
           </div>
         </div>
       </div>
