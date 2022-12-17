@@ -1,0 +1,74 @@
+{
+  "assetsByChunkName": {
+    "path---about-us": [
+      "path---about-us-a0e39f21c11f6a62c5ab.js",
+      "path---about-us-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---past-exhibitions": [
+      "path---past-exhibitions-a0e39f21c11f6a62c5ab.js",
+      "path---past-exhibitions-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-687cc95734d47f9a00fe.js",
+      "component---src-pages-index-js-687cc95734d47f9a00fe.js.map"
+    ],
+    "component---src-pages-upcoming-exhibitions-js": [
+      "component---src-pages-upcoming-exhibitions-js-7f49fea5c71db6cd6d7b.js",
+      "component---src-pages-upcoming-exhibitions-js-7f49fea5c71db6cd6d7b.js.map"
+    ],
+    "path---": [
+      "path----548bd9d03de9d67592ea.js",
+      "path----548bd9d03de9d67592ea.js.map"
+    ],
+    "component---src-pages-contact-js": [
+      "component---src-pages-contact-js-a2a804b45f36d475664e.js",
+      "component---src-pages-contact-js-a2a804b45f36d475664e.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-3d116e9e0b5d5ac24c48.js",
+      "component---src-layouts-index-js-3d116e9e0b5d5ac24c48.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-47c126d83c628be86074.js",
+      "component---src-pages-404-js-47c126d83c628be86074.js.map"
+    ],
+    "path---upcoming-exhibitions": [
+      "path---upcoming-exhibitions-a0e39f21c11f6a62c5ab.js",
+      "path---upcoming-exhibitions-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "commons": [
+      "commons-aed121053ddfda8bae00.js",
+      "commons-aed121053ddfda8bae00.js.map"
+    ],
+    "component---src-pages-about-us-js": [
+      "component---src-pages-about-us-js-b1d1514096358b593ce7.js",
+      "component---src-pages-about-us-js-b1d1514096358b593ce7.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---contact": [
+      "path---contact-a0e39f21c11f6a62c5ab.js",
+      "path---contact-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-eefbd5c9197875af02be.js",
+      "build-js-styles.css",
+      "app-eefbd5c9197875af02be.js.map",
+      "build-js-styles.css.map"
+    ],
+    "component---src-pages-past-exhibitions-js": [
+      "component---src-pages-past-exhibitions-js-c509ef73dfa8fdb1e122.js",
+      "component---src-pages-past-exhibitions-js-c509ef73dfa8fdb1e122.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
