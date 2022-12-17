@@ -1,0 +1,56 @@
+.Header{
+    position: fixed;
+    width: 100%;
+    padding: 5px 0;
+    z-index: 100;
+    font-family: 'AXIS-ExtraBold';
+    font-size: 18px;
+    background-color: #222222;
+    background: url('../img/Background.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.HeaderGroup{
+    max-width: 1300px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    align-items: center;
+    justify-items: center;
+}
+
+.HeaderGroup a{
+    color: white;
+    text-decoration: none;
+}
+
+.HeaderGroup a:hover{
+    color: #000AFF;
+    transition-duration: 300ms;
+    cursor: pointer;
+}
+
+@media (max-width: 750px){
+    .Header{
+        padding: 15px 0;
+    }
+
+    .HeaderGroup{
+        grid-template-columns: repeat(1, auto);
+    }
+
+    .Header a:nth-child(4){
+        display: none;
+    }
+    .Header a:nth-child(1){
+        display: none;
+    }
+    .Header a:nth-child(2){
+        display: none;
+    }
+    .Header a:nth-child(5){
+        display: none;
+    }
+
+}
