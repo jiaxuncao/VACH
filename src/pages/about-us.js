@@ -40,7 +40,7 @@ const AboutUsPage = () => (
             <h2>Jiaxun (Jessie) Cao<br></br>Duke Kunshan University</h2>
           </div>
           <div className='button'>
-            <a href='/contact/'>
+            <a href='http://jiaxuncao.com/VACH/contact/'>
               <button type="button">Join us now</button>
             </a>
           </div>

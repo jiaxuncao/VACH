@@ -56,7 +56,7 @@ const IndexPage = () => (
     <div className='Contact'>
       <div className='ContactGroup'>
         <h1>Wanna have your digital works creatively exhibited<br></br>in the digital spaces? Let’s get in touch...</h1>
-        <a href='/contact/'>
+        <a href='http://jiaxuncao.com/VACH/contact/'>
           <button type="button">Contact Us</button>
         </a>
       </div>
