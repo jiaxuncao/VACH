@@ -7,7 +7,7 @@ const AboutUsPage = () => (
       <div className='HeaderGroup'>
         <a href="/about-us/">ABOUT US</a>
         <a href="/past-exhibitions/">PAST EXHIBITIONS</a>
-        <a href="/home/"><img src={require('../img/Logo.svg')} alt="Logo" width="120" /></a>
+        <a href="/"><img src={require('../img/Logo.svg')} alt="Logo" width="120" /></a>
         <a href="/upcoming-exhibitions/">UPCOMING EXHIBITIONS</a>
         <a href="/contact/">CONTACT US</a>
       </div>
