@@ -623,6 +623,11 @@ button:hover {
   color: #FFFFFF;
 }
 
+.Hero svg {
+  margin: -30px auto;
+}
+
+
 @keyframes HeroAnimation {
   0% {
     opacity: 0;
