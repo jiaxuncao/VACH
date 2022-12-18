@@ -11,12 +11,12 @@ const IndexPage = () => (
         <div className='scroll'>Scroll Down</div>
         <div className='nav'>
           <div className='navbar1'>
-            <a href="https://jiaxuncao.com/VACH/about-us/">ABOUT US</a>
-            <a href="https://jiaxuncao.com/VACH/past-exhibitions/">PAST<br></br>EXHIBITIONS</a>
+            <a href="https://jiaxuncao.github.io/VACH/about-us/">ABOUT US</a>
+            <a href="https://jiaxuncao.github.io/VACH/past-exhibitions/">PAST<br></br>EXHIBITIONS</a>
           </div>
           <div className='navbar2'>
-            <a href="https://jiaxuncao.com/VACH/upcoming-exhibitions/">UPCOMING<br></br>EXHIBITIONS</a>
-            <a href="https://jiaxuncao.com/VACH/contact/">CONTACT US</a>
+            <a href="https://jiaxuncao.github.io/VACH/upcoming-exhibitions/">UPCOMING<br></br>EXHIBITIONS</a>
+            <a href="https://jiaxuncao.github.io/VACH/contact/">CONTACT US</a>
           </div>
         </div>
       </div>
@@ -56,7 +56,7 @@ const IndexPage = () => (
     <div className='Contact'>
       <div className='ContactGroup'>
         <h1>Wanna have your digital works creatively exhibited<br></br>in the digital spaces? Let’s get in touch...</h1>
-        <a href='https://jiaxuncao.com/VACH/contact/'>
+        <a href='hhttps://jiaxuncao.github.io/VACH/contact/'>
           <button type="button">Contact Us</button>
         </a>
       </div>

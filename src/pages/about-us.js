@@ -5,11 +5,11 @@ const AboutUsPage = () => (
   <div>
     <div className='Header'>
       <div className='HeaderGroup'>
-        <a href="https://jiaxuncao.com/VACH/about-us/">ABOUT US</a>
-        <a href="https://jiaxuncao.com/VACH/past-exhibitions/">PAST EXHIBITIONS</a>
-        <a href="https://jiaxuncao.com/VACH/"><img src={require('../img/Logo.svg')} alt="Logo" width="120" /></a>
-        <a href="https://jiaxuncao.com/VACH/upcoming-exhibitions/">UPCOMING EXHIBITIONS</a>
-        <a href="https://jiaxuncao.com/VACH/contact/">CONTACT US</a>
+        <a href="https://jiaxuncao.github.io/VACH/about-us/">ABOUT US</a>
+        <a href="https://jiaxuncao.github.io/VACH/past-exhibitions/">PAST EXHIBITIONS</a>
+        <a href="https://jiaxuncao.github.io/VACH/"><img src={require('../img/Logo.svg')} alt="Logo" width="120" /></a>
+        <a href="https://jiaxuncao.github.io/VACH/upcoming-exhibitions/">UPCOMING EXHIBITIONS</a>
+        <a href="https://jiaxuncao.github.io/VACH/contact/">CONTACT US</a>
       </div>
     </div>
     <div className='About'>
@@ -40,7 +40,7 @@ const AboutUsPage = () => (
             <h2>Jiaxun (Jessie) Cao<br></br>Duke Kunshan University</h2>
           </div>
           <div className='button'>
-            <a href='https://jiaxuncao.com/VACH/contact/'>
+            <a href='https://jiaxuncao.github.io/VACH/contact/'>
               <button type="button">Join us now</button>
             </a>
           </div>
