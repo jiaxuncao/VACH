@@ -5,11 +5,11 @@ const PastExhibitionsPage = () => (
   <div>
     <div className='Header'>
       <div className='HeaderGroup'>
-        <a href="http://jiaxuncao.com/VACH/about-us/">ABOUT US</a>
-        <a href="http://jiaxuncao.com/VACH/past-exhibitions/">PAST EXHIBITIONS</a>
-        <a href="http://jiaxuncao.com/VACH/"><img src={require('../img/Logo.svg')} alt="Logo" width="120" /></a>
-        <a href="http://jiaxuncao.com/VACH/upcoming-exhibitions/">UPCOMING EXHIBITIONS</a>
-        <a href="http://jiaxuncao.com/VACH/contact/">CONTACT US</a>
+        <a href="https://jiaxuncao.com/VACH/about-us/">ABOUT US</a>
+        <a href="https://jiaxuncao.com/VACH/past-exhibitions/">PAST EXHIBITIONS</a>
+        <a href="https://jiaxuncao.com/VACH/"><img src={require('../img/Logo.svg')} alt="Logo" width="120" /></a>
+        <a href="https://jiaxuncao.com/VACH/upcoming-exhibitions/">UPCOMING EXHIBITIONS</a>
+        <a href="https://jiaxuncao.com/VACH/contact/">CONTACT US</a>
       </div>
     </div>
     <div className='About'>
@@ -27,7 +27,7 @@ const PastExhibitionsPage = () => (
               <div className='PreviewText'>
                 <h1>the<br></br>hitchhiker’s<br></br>guide to the<br></br>dream:<br></br>vr art<br></br>exhibition</h1>
                 <p>Start Date: Aug 17, 2022<br></br>Publish Platform: VRChat</p>
-                <a href='https://vrchat.com/home/launch?worldId=wrld_1ba6ad71-1695-4a50-86e9-59b17868930b' target="_blank">
+                <a href='https://vrchat.com/home/launch?worldId=wrld_1ba6ad71-1695-4a50-86e9-59b17868930b' rel='noopener' target="_blank">
                   <button type="button">Enter the Exhibitions</button>
                 </a>
               </div>

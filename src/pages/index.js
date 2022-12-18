@@ -11,12 +11,12 @@ const IndexPage = () => (
         <div className='scroll'>Scroll Down</div>
         <div className='nav'>
           <div className='navbar1'>
-            <a href="http://jiaxuncao.com/VACH/about-us/">ABOUT US</a>
-            <a href="http://jiaxuncao.com/VACH/past-exhibitions/">PAST<br></br>EXHIBITIONS</a>
+            <a href="https://jiaxuncao.com/VACH/about-us/">ABOUT US</a>
+            <a href="https://jiaxuncao.com/VACH/past-exhibitions/">PAST<br></br>EXHIBITIONS</a>
           </div>
           <div className='navbar2'>
-            <a href="http://jiaxuncao.com/VACH/upcoming-exhibitions/">UPCOMING<br></br>EXHIBITIONS</a>
-            <a href="http://jiaxuncao.com/VACH/contact/">CONTACT US</a>
+            <a href="https://jiaxuncao.com/VACH/upcoming-exhibitions/">UPCOMING<br></br>EXHIBITIONS</a>
+            <a href="https://jiaxuncao.com/VACH/contact/">CONTACT US</a>
           </div>
         </div>
       </div>
@@ -41,7 +41,7 @@ const IndexPage = () => (
           <div className='PreviewText'>
             <h1>the<br></br>hitchhiker’s<br></br>guide to the<br></br>dream:<br></br>vr art exhibition</h1>
             <p>Start Date: Aug 17, 2022<br></br>Publish Platform: VRChat</p>
-            <a href='https://vrchat.com/home/launch?worldId=wrld_1ba6ad71-1695-4a50-86e9-59b17868930b' target="_blank">
+            <a href='https://vrchat.com/home/launch?worldId=wrld_1ba6ad71-1695-4a50-86e9-59b17868930b' rel='noopener' target="_blank">
               <button type="button">Enter the Exhibitions</button>
             </a>
           </div>
@@ -56,7 +56,7 @@ const IndexPage = () => (
     <div className='Contact'>
       <div className='ContactGroup'>
         <h1>Wanna have your digital works creatively exhibited<br></br>in the digital spaces? Let’s get in touch...</h1>
-        <a href='http://jiaxuncao.com/VACH/contact/'>
+        <a href='https://jiaxuncao.com/VACH/contact/'>
           <button type="button">Contact Us</button>
         </a>
       </div>

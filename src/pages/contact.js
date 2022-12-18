@@ -5,11 +5,11 @@ const ContactPage = () => (
   <div>
     <div className='Header'>
       <div className='HeaderGroup'>
-        <a href="http://jiaxuncao.com/VACH/about-us/">ABOUT US</a>
-        <a href="http://jiaxuncao.com/VACH/past-exhibitions/">PAST EXHIBITIONS</a>
-        <a href="http://jiaxuncao.com/VACH/"><img src={require('../img/Logo.svg')} alt="Logo" width="120" /></a>
-        <a href="http://jiaxuncao.com/VACH/upcoming-exhibitions/">UPCOMING EXHIBITIONS</a>
-        <a href="http://jiaxuncao.com/VACH/contact/">CONTACT US</a>
+        <a href="https://jiaxuncao.com/VACH/about-us/">ABOUT US</a>
+        <a href="https://jiaxuncao.com/VACH/past-exhibitions/">PAST EXHIBITIONS</a>
+        <a href="https://jiaxuncao.com/VACH/"><img src={require('../img/Logo.svg')} alt="Logo" width="120" /></a>
+        <a href="https://jiaxuncao.com/VACH/upcoming-exhibitions/">UPCOMING EXHIBITIONS</a>
+        <a href="https://jiaxuncao.com/VACH/contact/">CONTACT US</a>
       </div>
     </div>
     <div className='About'>
