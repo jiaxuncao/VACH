@@ -625,6 +625,11 @@ button:hover {
 
 .Hero svg {
   margin: -30px auto;
+  opacity: 0;
+  animation: HeroAnimation;
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
 }
 
 
